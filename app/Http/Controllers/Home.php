@@ -80,4 +80,8 @@ class Home extends Controller
         Session::flush();
         return redirect('loginform');
     }
+
+    function aa(){
+        
+    }
 }
