@@ -82,6 +82,10 @@ class Home extends Controller
     }
 
     function aa(){
+
+    }
+
+    function aaa(){
         
     }
 }
