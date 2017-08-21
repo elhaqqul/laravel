@@ -86,6 +86,6 @@ class Home extends Controller
     }
 
     function aaa(){
-        
+        echo "aaaa";
     }
 }
